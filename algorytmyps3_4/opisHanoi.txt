@@ -1,0 +1,9 @@
+Jedna z sekwencji musi zawierać przesienienie NAJWIĘKSZEGO krążka z A do C, może to nastąpić tylko wtedy gdy na paliku A jest h - 1 krążków, co znaczyłoby, że h - 1 krążków będzie na paliku B, aby móc przesunąć krążek z A do C.
+Identyczna sekwencja przenoszenia innych krążków między B i C, tzn.
+Żeby przesunąć drugi największy palik z B na C, trzeba przesunąć h - 2 krążki na palik A. Takim samym algorytmem, zmieniając tylko "logiczną nazwę palików" (B sourcePeg, A pomocnyPeg, C targetPeg).
+Więc rekursja polega na zmniejszaniu wielkości palików (h-1, h-2 dopóki h-h=0), Zmieniając paliki.
+
+Opis algorytmu:
+jeżeli h > 1, przenosimy h - 1 dysków z A do B
+największy dysk przenosimy z A do C
+jeżeli h > 1, przenosimy h -1 dysków z B do C, aby odblokować kolejny największy dysk
