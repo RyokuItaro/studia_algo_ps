@@ -1,0 +1,16 @@
+C:\repos\studia_algo_ps\algo_ps5_6\bin\Debug\net5.0\algo_ps5_6.exe
+C:\repos\studia_algo_ps\algo_ps5_6\bin\Debug\net5.0\algo_ps5_6.deps.json
+C:\repos\studia_algo_ps\algo_ps5_6\bin\Debug\net5.0\algo_ps5_6.runtimeconfig.json
+C:\repos\studia_algo_ps\algo_ps5_6\bin\Debug\net5.0\algo_ps5_6.runtimeconfig.dev.json
+C:\repos\studia_algo_ps\algo_ps5_6\bin\Debug\net5.0\algo_ps5_6.dll
+C:\repos\studia_algo_ps\algo_ps5_6\bin\Debug\net5.0\ref\algo_ps5_6.dll
+C:\repos\studia_algo_ps\algo_ps5_6\bin\Debug\net5.0\algo_ps5_6.pdb
+C:\repos\studia_algo_ps\algo_ps5_6\obj\Debug\net5.0\algo_ps5_6.csproj.AssemblyReference.cache
+C:\repos\studia_algo_ps\algo_ps5_6\obj\Debug\net5.0\algo_ps5_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\studia_algo_ps\algo_ps5_6\obj\Debug\net5.0\algo_ps5_6.AssemblyInfoInputs.cache
+C:\repos\studia_algo_ps\algo_ps5_6\obj\Debug\net5.0\algo_ps5_6.AssemblyInfo.cs
+C:\repos\studia_algo_ps\algo_ps5_6\obj\Debug\net5.0\algo_ps5_6.csproj.CoreCompileInputs.cache
+C:\repos\studia_algo_ps\algo_ps5_6\obj\Debug\net5.0\algo_ps5_6.dll
+C:\repos\studia_algo_ps\algo_ps5_6\obj\Debug\net5.0\ref\algo_ps5_6.dll
+C:\repos\studia_algo_ps\algo_ps5_6\obj\Debug\net5.0\algo_ps5_6.pdb
+C:\repos\studia_algo_ps\algo_ps5_6\obj\Debug\net5.0\algo_ps5_6.genruntimeconfig.cache
