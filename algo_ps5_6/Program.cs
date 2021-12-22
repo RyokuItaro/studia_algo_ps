@@ -6,7 +6,8 @@ namespace algo_ps5_6
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Modnisia.Start();
+            Jarnik.Start();
         }
     }
 }

@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algo_ps5_6", "algo_ps5_6.csproj", "{BE9A20F4-1F64-473A-938B-D006FC77CEF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "algo_ps5_6", "algo_ps5_6.csproj", "{BE9A20F4-1F64-473A-938B-D006FC77CEF6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3559BD87-7848-4EB8-A2F8-44263C711672}"
+	ProjectSection(SolutionItems) = preProject
+		In0304.txt = In0304.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
